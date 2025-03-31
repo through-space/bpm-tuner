@@ -1,0 +1,542 @@
+[
+  {
+    "noteNum": "-8",
+    "noteName": "C0 Double Pedal C",
+    "frequency": "16.3516"
+  },
+  {
+    "noteNum": "-7",
+    "noteName": "C#0/D♭0",
+    "frequency": "17.32391"
+  },
+  {
+    "noteNum": "-6",
+    "noteName": "D0",
+    "frequency": "18.35405"
+  },
+  {
+    "noteNum": "-5",
+    "noteName": "D#0/E♭0",
+    "frequency": "19.44544"
+  },
+  {
+    "noteNum": "-4",
+    "noteName": "E0",
+    "frequency": "20.60172"
+  },
+  {
+    "noteNum": "-3",
+    "noteName": "F0",
+    "frequency": "21.82676"
+  },
+  {
+    "noteNum": "-2",
+    "noteName": "F#0/G♭0",
+    "frequency": "23.12465"
+  },
+  {
+    "noteNum": "-1",
+    "noteName": "G0",
+    "frequency": "24.49971"
+  },
+  {
+    "noteNum": "0",
+    "noteName": "G#0/A♭0",
+    "frequency": "25.95654"
+  },
+  {
+    "noteNum": "1",
+    "noteName": "A0",
+    "frequency": "27.5"
+  },
+  {
+    "noteNum": "2",
+    "noteName": "A#0/B♭0",
+    "frequency": "29.13524"
+  },
+  {
+    "noteNum": "3",
+    "noteName": "B0",
+    "frequency": "30.86771"
+  },
+  {
+    "noteNum": "4",
+    "noteName": "C1 Pedal C",
+    "frequency": "32.7032"
+  },
+  {
+    "noteNum": "5",
+    "noteName": "C#1/D♭1",
+    "frequency": "34.64783"
+  },
+  {
+    "noteNum": "6",
+    "noteName": "D1",
+    "frequency": "36.7081"
+  },
+  {
+    "noteNum": "7",
+    "noteName": "D#1/E♭1",
+    "frequency": "38.89087"
+  },
+  {
+    "noteNum": "8",
+    "noteName": "E1",
+    "frequency": "41.20344"
+  },
+  {
+    "noteNum": "9",
+    "noteName": "F1",
+    "frequency": "43.65353"
+  },
+  {
+    "noteNum": "10",
+    "noteName": "F#1/G♭1",
+    "frequency": "46.2493"
+  },
+  {
+    "noteNum": "11",
+    "noteName": "G1",
+    "frequency": "48.99943"
+  },
+  {
+    "noteNum": "12",
+    "noteName": "G#1/A♭1",
+    "frequency": "51.91309"
+  },
+  {
+    "noteNum": "13",
+    "noteName": "A1",
+    "frequency": "55"
+  },
+  {
+    "noteNum": "14",
+    "noteName": "A#1/B♭1",
+    "frequency": "58.27047"
+  },
+  {
+    "noteNum": "15",
+    "noteName": "B1",
+    "frequency": "61.73541"
+  },
+  {
+    "noteNum": "16",
+    "noteName": "C2 Deep C",
+    "frequency": "65.40639"
+  },
+  {
+    "noteNum": "17",
+    "noteName": "C#2/D♭2",
+    "frequency": "69.29566"
+  },
+  {
+    "noteNum": "18",
+    "noteName": "D2",
+    "frequency": "73.41619"
+  },
+  {
+    "noteNum": "19",
+    "noteName": "D#2/E♭2",
+    "frequency": "77.78175"
+  },
+  {
+    "noteNum": "20",
+    "noteName": "E2",
+    "frequency": "82.40689"
+  },
+  {
+    "noteNum": "21",
+    "noteName": "F2",
+    "frequency": "87.30706"
+  },
+  {
+    "noteNum": "22",
+    "noteName": "F#2/G♭2",
+    "frequency": "92.49861"
+  },
+  {
+    "noteNum": "23",
+    "noteName": "G2",
+    "frequency": "97.99886"
+  },
+  {
+    "noteNum": "24",
+    "noteName": "G#2/A♭2",
+    "frequency": "103.8262"
+  },
+  {
+    "noteNum": "25",
+    "noteName": "A2",
+    "frequency": "110"
+  },
+  {
+    "noteNum": "26",
+    "noteName": "A#2/B♭2",
+    "frequency": "116.5409"
+  },
+  {
+    "noteNum": "27",
+    "noteName": "B2",
+    "frequency": "123.4708"
+  },
+  {
+    "noteNum": "28",
+    "noteName": "C3",
+    "frequency": "130.8128"
+  },
+  {
+    "noteNum": "29",
+    "noteName": "C#3/D♭3",
+    "frequency": "138.5913"
+  },
+  {
+    "noteNum": "30",
+    "noteName": "D3",
+    "frequency": "146.8324"
+  },
+  {
+    "noteNum": "31",
+    "noteName": "D#3/E♭3",
+    "frequency": "155.5635"
+  },
+  {
+    "noteNum": "32",
+    "noteName": "E3",
+    "frequency": "164.8138"
+  },
+  {
+    "noteNum": "33",
+    "noteName": "F3",
+    "frequency": "174.6141"
+  },
+  {
+    "noteNum": "34",
+    "noteName": "F#3/G♭3",
+    "frequency": "184.9972"
+  },
+  {
+    "noteNum": "35",
+    "noteName": "G3",
+    "frequency": "195.9977"
+  },
+  {
+    "noteNum": "36",
+    "noteName": "G#3/A♭3",
+    "frequency": "207.6523"
+  },
+  {
+    "noteNum": "37",
+    "noteName": "A3",
+    "frequency": "220"
+  },
+  {
+    "noteNum": "38",
+    "noteName": "A#3/B♭3",
+    "frequency": "233.0819"
+  },
+  {
+    "noteNum": "39",
+    "noteName": "B3",
+    "frequency": "246.9417"
+  },
+  {
+    "noteNum": "40",
+    "noteName": "C4 Middle C",
+    "frequency": "261.6256"
+  },
+  {
+    "noteNum": "41",
+    "noteName": "C#4/D♭4",
+    "frequency": "277.1826"
+  },
+  {
+    "noteNum": "42",
+    "noteName": "D4",
+    "frequency": "293.6648"
+  },
+  {
+    "noteNum": "43",
+    "noteName": "D#4/E♭4",
+    "frequency": "311.127"
+  },
+  {
+    "noteNum": "44",
+    "noteName": "E4",
+    "frequency": "329.6276"
+  },
+  {
+    "noteNum": "45",
+    "noteName": "F4",
+    "frequency": "349.2282"
+  },
+  {
+    "noteNum": "46",
+    "noteName": "F#4/G♭4",
+    "frequency": "369.9944"
+  },
+  {
+    "noteNum": "47",
+    "noteName": "G4",
+    "frequency": "391.9954"
+  },
+  {
+    "noteNum": "48",
+    "noteName": "G#4/A♭4",
+    "frequency": "415.3047"
+  },
+  {
+    "noteNum": "49",
+    "noteName": "A4 A440",
+    "frequency": "440"
+  },
+  {
+    "noteNum": "50",
+    "noteName": "A#4/B♭4",
+    "frequency": "466.1638"
+  },
+  {
+    "noteNum": "51",
+    "noteName": "B4",
+    "frequency": "493.8833"
+  },
+  {
+    "noteNum": "52",
+    "noteName": "C5 Tenor C",
+    "frequency": "523.2511"
+  },
+  {
+    "noteNum": "53",
+    "noteName": "C#5/D♭5",
+    "frequency": "554.3653"
+  },
+  {
+    "noteNum": "54",
+    "noteName": "D5",
+    "frequency": "587.3295"
+  },
+  {
+    "noteNum": "55",
+    "noteName": "D#5/E♭5",
+    "frequency": "622.254"
+  },
+  {
+    "noteNum": "56",
+    "noteName": "E5",
+    "frequency": "659.2551"
+  },
+  {
+    "noteNum": "57",
+    "noteName": "F5",
+    "frequency": "698.4565"
+  },
+  {
+    "noteNum": "58",
+    "noteName": "F#5/G♭5",
+    "frequency": "739.9888"
+  },
+  {
+    "noteNum": "59",
+    "noteName": "G5",
+    "frequency": "783.9909"
+  },
+  {
+    "noteNum": "60",
+    "noteName": "G#5/A♭5",
+    "frequency": "830.6094"
+  },
+  {
+    "noteNum": "61",
+    "noteName": "A5",
+    "frequency": "880"
+  },
+  {
+    "noteNum": "62",
+    "noteName": "A#5/B♭5",
+    "frequency": "932.3275"
+  },
+  {
+    "noteNum": "63",
+    "noteName": "B5",
+    "frequency": "987.7666"
+  },
+  {
+    "noteNum": "64",
+    "noteName": "C6 Soprano C (High C)",
+    "frequency": "1046.502"
+  },
+  {
+    "noteNum": "65",
+    "noteName": "C#6/D♭6",
+    "frequency": "1108.731"
+  },
+  {
+    "noteNum": "66",
+    "noteName": "D6",
+    "frequency": "1174.659"
+  },
+  {
+    "noteNum": "67",
+    "noteName": "D#6/E♭6",
+    "frequency": "1244.508"
+  },
+  {
+    "noteNum": "68",
+    "noteName": "E6",
+    "frequency": "1318.51"
+  },
+  {
+    "noteNum": "69",
+    "noteName": "F6",
+    "frequency": "1396.913"
+  },
+  {
+    "noteNum": "70",
+    "noteName": "F#6/G♭6",
+    "frequency": "1479.978"
+  },
+  {
+    "noteNum": "71",
+    "noteName": "G6",
+    "frequency": "1567.982"
+  },
+  {
+    "noteNum": "72",
+    "noteName": "G#6/A♭6",
+    "frequency": "1661.219"
+  },
+  {
+    "noteNum": "73",
+    "noteName": "A6",
+    "frequency": "1760"
+  },
+  {
+    "noteNum": "74",
+    "noteName": "A#6/B♭6",
+    "frequency": "1864.655"
+  },
+  {
+    "noteNum": "75",
+    "noteName": "B6",
+    "frequency": "1975.533"
+  },
+  {
+    "noteNum": "76",
+    "noteName": "C7 Double high C",
+    "frequency": "2093.005"
+  },
+  {
+    "noteNum": "77",
+    "noteName": "C#7/D♭7",
+    "frequency": "2217.461"
+  },
+  {
+    "noteNum": "78",
+    "noteName": "D7",
+    "frequency": "2349.318"
+  },
+  {
+    "noteNum": "79",
+    "noteName": "D#7/E♭7",
+    "frequency": "2489.016"
+  },
+  {
+    "noteNum": "80",
+    "noteName": "E7",
+    "frequency": "2637.02"
+  },
+  {
+    "noteNum": "81",
+    "noteName": "F7",
+    "frequency": "2793.826"
+  },
+  {
+    "noteNum": "82",
+    "noteName": "F#7/G♭7",
+    "frequency": "2959.955"
+  },
+  {
+    "noteNum": "83",
+    "noteName": "G7",
+    "frequency": "3135.963"
+  },
+  {
+    "noteNum": "84",
+    "noteName": "G#7/A♭7",
+    "frequency": "3322.438"
+  },
+  {
+    "noteNum": "85",
+    "noteName": "A7",
+    "frequency": "3520"
+  },
+  {
+    "noteNum": "86",
+    "noteName": "A#7/B♭7",
+    "frequency": "3729.31"
+  },
+  {
+    "noteNum": "87",
+    "noteName": "B7",
+    "frequency": "3951.066"
+  },
+  {
+    "noteNum": "88",
+    "noteName": "C8 Eighth octave",
+    "frequency": "4186.009"
+  },
+  {
+    "noteNum": "89",
+    "noteName": "C#8/D♭8",
+    "frequency": "4434.922"
+  },
+  {
+    "noteNum": "90",
+    "noteName": "D8",
+    "frequency": "4698.636"
+  },
+  {
+    "noteNum": "91",
+    "noteName": "D#8/E♭8",
+    "frequency": "4978.032"
+  },
+  {
+    "noteNum": "92",
+    "noteName": "E8",
+    "frequency": "5274.041"
+  },
+  {
+    "noteNum": "93",
+    "noteName": "F8",
+    "frequency": "5587.652"
+  },
+  {
+    "noteNum": "94",
+    "noteName": "F#8/G♭8",
+    "frequency": "5919.911"
+  },
+  {
+    "noteNum": "95",
+    "noteName": "G8",
+    "frequency": "6271.927"
+  },
+  {
+    "noteNum": "96",
+    "noteName": "G#8/A♭8",
+    "frequency": "6644.875"
+  },
+  {
+    "noteNum": "97",
+    "noteName": "A8",
+    "frequency": "7040"
+  },
+  {
+    "noteNum": "98",
+    "noteName": "A#8/B♭8",
+    "frequency": "7458.62"
+  },
+  {
+    "noteNum": "99",
+    "noteName": "B8",
+    "frequency": "7902.133"
+  }
+]

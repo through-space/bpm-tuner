@@ -3,6 +3,7 @@
 ## Description 
 ...
 
+___
 
 ## Get Started
 
@@ -16,3 +17,7 @@ npm install
 ```bash
 npm run dev
 ````
+
+___
+## ToDo
+- [ ] Restructure component
