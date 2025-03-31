@@ -20,4 +20,5 @@ npm run dev
 
 ___
 ## ToDo
-- [ ] Restructure component
+- [ ] Settings
+- [ ] Guess Game
