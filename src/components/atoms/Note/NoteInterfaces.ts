@@ -1,6 +1,6 @@
 import { INote } from "@services/notes-сalculator/notesCalculatorInterfaces";
 
-export interface INoteDisplayProps {
+export interface INoteProps {
 	note: INote;
-	frequency?: number;
+	measuredFrequency?: number;
 }

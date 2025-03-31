@@ -4,7 +4,7 @@ import { useBpmTuner } from "@hooks/useBpmTuner";
 import { NoteListWrapper } from "./NotesListStyledComponents";
 import { INITIAL_OCTAVE, MAXIMUM_OCTAVE } from "./NotesListConsts";
 import { useNotesCalculator } from "@hooks/useNotesCalculator";
-import { NoteDisplay } from "../../atoms/NoteDisplay/NoteDisplay";
+import { Note } from "../../atoms/Note/Note";
 
 export const NotesList: FC<INotesListProps> = () => {
 	const { frequency } = useBpmTuner();
@@ -14,10 +14,11 @@ export const NotesList: FC<INotesListProps> = () => {
 
 	for (let octave = INITIAL_OCTAVE; octave < MAXIMUM_OCTAVE + 1; octave++) {
 		const noteFrequency = getOctaveFrequency(frequency, octave);
-		console.log(noteFrequency);
 		const note = getNoteByFrequency(noteFrequency);
 
-		notes.push(<NoteDisplay key={octave} note={note} />);
+		notes.push(
+			<Note key={octave} note={note} measuredFrequency={noteFrequency} />,
+		);
 	}
 
 	return <NoteListWrapper>{notes}</NoteListWrapper>;
